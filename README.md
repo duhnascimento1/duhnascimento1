@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center" style="font-size:36px;">🔥 Welcome to my GitHub!</h1>
+<h1 align="center" style="font-size:36px;">🌐 Welcome to my GitHub!</h1>
 
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
   I'm <strong>Eduardo Nascimento</strong>, passionate about <strong>PL/SQL</strong>. I'm always learning, testing tools, and sharing techniques that I find useful.
