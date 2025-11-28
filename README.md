@@ -1,3 +1,11 @@
+<!-- Divider roxa -->
+<a href="https://github.com/duhnascimento1" target="_blank">
+<img src="green_to_purple_divider.png"
+     alt="purple divider" width="100%" height="3">
+</a>
+
+
+
 <a href="https://github.com/duhnascimento1" target="_blank">
   <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=duhnascimento1" alt="visitor badge" />
 </a>
@@ -8,7 +16,14 @@
   </a>
 </div>
 
-<h1 align="center" style="font-size:36px;">🔥 Welcome to my GitHub!</h1>
+
+<!-- Divider roxa -->
+<a href="https://github.com/duhnascimento1" target="_blank">
+<img src="green_to_purple_divider.png"
+     alt="purple divider" width="100%" height="3">
+</a>
+
+<h1 align="center" style="font-size:36px;">🌐 Welcome to my GitHub!</h1>
 
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
   I'm <strong>Eduardo Nascimento</strong>, passionate about <strong>PL/SQL</strong>. I'm always learning, testing tools, and sharing techniques that I find useful.
@@ -24,6 +39,12 @@
     <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile">
   </a>
 </p>
+
+<!-- Divider roxa -->
+<a href="https://github.com/duhnascimento1" target="_blank">
+<img src="green_to_purple_divider.png"
+     alt="purple divider" width="100%" height="3">
+</a>
 
 # ⚙️ PL/SQL | Python | Java
 
@@ -47,11 +68,23 @@
 
 <br>
 
+<!-- Divider roxa -->
+<a href="https://github.com/duhnascimento1" target="_blank">
+<img src="green_to_purple_divider.png"
+     alt="purple divider" width="100%" height="3">
+</a>
+
+
 ## 🐍 **Contributions**
 <div align="center">
   <img src="https://github.com/duhnascimento1/duhnascimento1/blob/main/.github/workflows/cobrinha.svg" width="1000px">
 </div>
 
+<!-- Divider roxa -->
+<a href="https://github.com/duhnascimento1" target="_blank">
+<img src="green_to_purple_divider.png"
+     alt="purple divider" width="100%" height="3">
+</a>
 
 
 ## **Connect with me**
