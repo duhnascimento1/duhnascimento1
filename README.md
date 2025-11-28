@@ -48,9 +48,9 @@
      alt="purple divider" width="100%" height="3">
 </a>
 
-# ⚙️ PL/SQL | Python | Java
+## ⚙️ PL/SQL | Python | Java
 
-## Tech Stack
+## 📦 Tech Stack
 
 <div style="display:inline_block"><br>
 
@@ -107,7 +107,7 @@
 </a>
 
 
-## **Connect with me**
+## 🔗 **Connect with me**
 
 <div>
   <a href="mailto:duhshrek@gmail.com" target="_blank">
