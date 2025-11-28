@@ -32,7 +32,9 @@
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
   Want to know more about me? Check out my portfolio and LinkedIn below:
 </p>
-
+<p align="center">
+  <a href="https://github.com/pgw-script" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub_Profile-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/pgw-script" target="_blank">
