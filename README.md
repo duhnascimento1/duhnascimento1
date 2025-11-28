@@ -76,6 +76,24 @@
      alt="purple divider" width="100%" height="3">
 </a>
 
+##
+<p align="center">
+<a href="https://github.com/xxizunoxx">
+
+<img height="180em" 
+     src="https://github-readme-stats-eight-theta.vercel.app/api?username=duhnascimento1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
+<img height="180em" 
+     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=duhnascimento1&layout=compact&langs_count=8&theme=algolia&count_private=true" />
+
+</a>
+</p>
+
+
+<!-- Divider roxa -->
+<a href="https://github.com/duhnascimento1" target="_blank">
+<img src="green_to_purple_divider.png"
+     alt="purple divider" width="100%" height="3">
+</a>
 
 ## 🐍 **Contributions**
 <div align="center">
