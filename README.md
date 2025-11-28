@@ -8,7 +8,7 @@
   </a>
 </div>
 
-<h1 align="center" style="font-size:36px;">🌐 Welcome to my GitHub!</h1>
+<h1 align="center" style="font-size:36px;">🔥 Welcome to my GitHub!</h1>
 
 <p align="center" style="max-width:700px; margin:auto; font-size:16px;">
   I'm <strong>Eduardo Nascimento</strong>, passionate about <strong>PL/SQL</strong>. I'm always learning, testing tools, and sharing techniques that I find useful.
@@ -40,6 +40,8 @@
   <img align="center" alt="PostgreSql" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img align="center" alt="FastAPI" height="45" width="45" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0">
   <img align="center" alt="Springboot" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-0Px11XjbHem7wIXanYYn1TBou54dOc1kXZGXteuwB6JTxMlvsA1zLLOfMhqc7yYplVE&usqp=CAU">
+    <img align="center" alt="Git" height="45" width="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    
 
 </div>
 
