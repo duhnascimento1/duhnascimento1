@@ -47,6 +47,13 @@
 
 <br>
 
+## 🐍 **Contributions**
+<div align="center">
+  <img src="https://github.com/duhnascimento1/duhnascimento1/blob/main/.github/workflows/cobrinha.svg" width="1000px">
+</div>
+
+
+
 ## **Connect with me**
 
 <div>
