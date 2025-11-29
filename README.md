@@ -55,14 +55,18 @@
 <div style="display:inline_block"><br>
 
   <img align="center" alt="PL/SQL" height="45" width="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnBmowPLPgMGSVMVWGgIyzfxEGXvWXdl0yTwTo69rKm0K7GjGids44hhFJZsLindX7SDc&usqp=CAU>">
+  <img align="center" alt="PostgreSql" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img align="center" alt="Python" height="45" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="ntfy" height="45" width="45" src="https://www.kyvislabs.com/img/posts/ntfy.svg">
+   <img align="center" alt="Java" height="45" width="45" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
   <img align="center" alt="Linux" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
   <img align="center" alt="VSCode" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png">
-  <img align="center" alt="Java" height="45" width="45" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
+  
   <img align="center" alt="PowerBi" height="45" width="45" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
-  <img align="center" alt="PostgreSql" height="45" width="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
+  
   <img align="center" alt="FastAPI" height="45" width="45" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0">
- <img align="center" alt="Git" height="45" width="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  <img align="center" alt="Git" height="45" width="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+  
     
 
 </div>
