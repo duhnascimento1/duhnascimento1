@@ -1,4 +1,4 @@
-<!-- Divider roxa -->
+<!-- Divider roxa --> 
 <a href="https://github.com/duhnascimento1" target="_blank">
 <img src="green_to_purple_divider.png"
      alt="purple divider" width="100%" height="3">
