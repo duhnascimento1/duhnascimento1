@@ -66,7 +66,7 @@
   
   <img align="center" alt="FastAPI" height="45" width="45" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png/fastapi-icon-sv7hsd0o3donlq26es2lr.png?_a=DATAg1AAZAA0">
   <img align="center" alt="Git" height="45" width="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
- <img align="center" alt="Git" height="45" width="45" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/173288492.png">
+ <img align="center" alt="Git" height="45" width="45" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/173288492">
     
 
 </div>
