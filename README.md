@@ -58,12 +58,10 @@
   <img alt="PL/SQL" height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnBmowPLPgMGSVMVWGgIyzfxEGXvWXdl0yTwTo69rKm0K7GjGids44hhFJZsLindX7SDc&usqp=CAU">
   <img alt="PostgreSQL" height="45" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
   <img alt="Python" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="ntfy" height="45" src="https://www.kyvislabs.com/img/posts/ntfy.svg">
   <img alt="Java" height="45" src="https://images.vexels.com/media/users/3/166401/isolated/preview/b82aa7ac3f736dd78570dd3fa3fa9e24-icone-da-linguagem-de-programacao-java.png">
   <img alt="Linux" height="45" src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg">
   <img alt="VSCode" height="45" src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Visual_Studio_Code_0.10.1_icon.png">
   <img alt="PowerBI" height="45" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png">
-  <img alt="FastAPI" height="45" src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/3/fastapi-icon-72blnc5ihz9c30ltfruvm.png">
   <img alt="Git" height="45" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img alt="Badge" height="45" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/173288492">
 </p>
